@@ -24,16 +24,5 @@ Escuela de Educación Secundaria Técnica N° 5 "2 de Abril" – Temperley, Buen
 
 ## Estructura del repositorio
 
-- `Diseño 3D/`: gabinete y piezas 3D.
 - `Hardware/`: proyecto de KiCad, esquemático y PCB.
 - `Software/`: firmware del ESP32-C3.
-
-## Advertencia de seguridad
-
-Este proyecto maneja 220 V de corriente alterna, que pueden causar descargas graves. Desconectá la red antes de conectar o modificar cualquier carga y alojá la placa en un gabinete aislado.
-
-## Autor
-
-Benjamín Acevedo Guillen
-
-Profesor: Ing. Martín Leguizamón
